@@ -1,6 +1,7 @@
 .current-balance {
   display: none;
   text-align: center;
+  background-color: #75d1ef;
 }
 
 .well-lg {
